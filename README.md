@@ -1,1 +1,1 @@
-# MyWork
+# Streamlit application
